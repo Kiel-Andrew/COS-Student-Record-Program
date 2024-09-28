@@ -72,7 +72,7 @@
     </tbody>
   </table>
   <li>After creating database table, go to Login.java and change the link url of line 236 JDBC into your database link</li>
-  <li>If you have the password of your database then put it in lin 236</li>
+  <li>If you have the password of your database then put it in line 236</li>
   <li>Repeat the processes for other ".java" files:</li>
   <li>MainFrame.java: Line 365</li>
   <li>Register.java: Line 25</li>
