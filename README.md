@@ -32,8 +32,6 @@
       </tr>
     </tbody>
   </table>
-  <br>
-
   <h3>reg_tbl consist of</h3>
   <table>
     <thead>
