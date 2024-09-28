@@ -80,3 +80,5 @@
   <li>Update.java: Line 393, 436, 470, and 563</li>
   <li>After configuring your code, try build and run</li>
 </ol>
+<h3>Reminder!</h3>
+<p>These logo are edited and the author does not intend to copy the logo and disclaims all of the pictures used are original. Thus, the author only use the edited logo for school project purposes only. </p>
